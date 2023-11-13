@@ -1,0 +1,10 @@
+name: machine_learning
+dependencies:
+  - numpy
+  - xarray
+  - pandas
+  - matplotlib
+  - tensorflow
+channels:
+  - defaults
+  - conda-forge
